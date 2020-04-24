@@ -14,3 +14,4 @@ Included Navigation bar, displays Google's Top headlines, which is done by using
 6.After all node modules are installed properly, run the command "npm start".</br>
 7.This will initiate app and you can see the Single Page Application on localhost:3000</br></br>
 <b>Video of running the app : </b>
+Link - https://screencast-o-matic.com/watch/cYfZVLAUYQ 
